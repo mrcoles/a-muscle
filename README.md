@@ -13,3 +13,5 @@ Then…
 ```
 git pull
 ```
+
+<img alt="pull a muscle" src="pull-a-muscle.png" width="400" height="400" />
